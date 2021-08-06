@@ -1,0 +1,137 @@
+"","Isolate","Isolate_rep","Spot_rep","Culture_media","MALDI_Identification","Archive","Number_Init_folder","Number_End_folder"
+"1","RA22","RA22.1",3,"TSBg","Staphylococcus aureus",1,10,12
+"2","RA22","RA22.2",3,"TSBg","Staphylococcus sp.",1,13,15
+"3","RA22","RA22.3",3,"TSBg","Staphylococcus aureus",1,16,18
+"4","RA22","RA22.4",3,"TSBg","Staphylococcus aureus",1,19,21
+"5","RA24","RA24.1",4,"TSBg","Not reliable",1,22,25
+"6","RA24","RA24.2",3,"TSBg","Staphylococcus aureus",1,26,28
+"7","RA24","RA24.3",3,"TSBg","Staphylococcus sp.",1,29,31
+"8","RA24","RA24.4",2,"TSBg","Staphylococcus aureus",1,32,33
+"9","MBb30","MBb30.1",3,"TSBg","Staphylococcus aureus",1,34,36
+"10","MBb30","MBb30.2",3,"TSBg","Staphylococcus aureus",1,37,39
+"11","MBb30","MBb30.3",3,"TSBg","Staphylococcus aureus",1,40,42
+"12","MBb30","MBb30.4",3,"TSBg","Staphylococcus aureus",1,43,45
+"13","MB308","MB308.1",3,"TSBg","Staphylococcus aureus",1,46,48
+"14","MB308","MB308.2",3,"TSBg","Staphylococcus sp.",1,49,51
+"15","MB308","MB308.3",3,"TSBg","Staphylococcus sp.",1,52,54
+"16","MB308","MB308.4",3,"TSBg","Staphylococcus sp.",1,55,57
+"17","RA18","RA18.1",3,"TSBg","Staphylococcus aureus",1,58,60
+"18","RA18","RA18.2",3,"TSBg","Staphylococcus aureus",1,61,63
+"19","RA18","RA18.3",3,"TSBg","Not reliable",1,64,66
+"20","RA18","RA18.4",3,"TSBg","Staphylococcus aureus",1,67,69
+"21","MBT002","MBT002.1",3,"TSBg","Staphylococcus sp.",1,70,72
+"22","MBT002","MBT002.2",3,"TSBg","Staphylococcus aureus",1,73,75
+"23","MBT002","MBT002.3",3,"TSBg","Staphylococcus aureus",1,76,78
+"24","MBT002","MBT002.4",3,"TSBg","Staphylococcus aureus",1,79,81
+"25","MB019","MB019.1",3,"TSBg","Staphylococcus aureus",1,82,84
+"26","MB019","MB019.2",3,"TSBg","Staphylococcus aureus",1,85,87
+"27","MB019","MB019.3",3,"TSBg","Staphylococcus aureus",1,88,90
+"28","MB019","MB019.4",3,"TSBg","Staphylococcus aureus",1,91,93
+"29","MB326","MB326.1",3,"TSBg","Staphylococcus aureus",2,10,12
+"30","MB326","MB326.2",3,"TSBg","Staphylococcus aureus",2,13,15
+"31","MB326","MB326.3",3,"TSBg","Staphylococcus aureus",2,16,18
+"32","MB326","MB326.4",3,"TSBg","Staphylococcus aureus",2,19,21
+"33","RF122","RF122.1",3,"TSBg","Staphylococcus aureus",2,22,24
+"34","RF122","RF122.2",3,"TSBg","Not reliable",2,25,27
+"35","RF122","RF122.3",3,"TSBg","Staphylococcus sp.",2,28,30
+"36","RF122","RF122.4",3,"TSBg","Not reliable",2,31,33
+"37","V329","V329.1",3,"TSBg","Staphylococcus sp.",2,34,36
+"38","V329","V329.2",3,"TSBg","Staphylococcus sp.",2,37,39
+"39","V329","V329.4",2,"TSBg","Staphylococcus aureus",2,40,41
+"40","RA22","RA22.1",3,"TSB","Staphylococcus aureus",2,42,44
+"41","RA22","RA22.2",3,"TSB","Staphylococcus aureus",2,45,47
+"42","RA22","RA22.3",3,"TSB","Staphylococcus aureus",2,48,50
+"43","RA22","RA22.4",3,"TSB","Staphylococcus aureus",2,51,53
+"44","RA24","RA24.1",3,"TSB","Staphylococcus aureus",2,54,56
+"45","RA24","RA24.2",3,"TSB","Staphylococcus aureus",2,57,59
+"46","RA24","RA24.3",3,"TSB","Staphylococcus aureus",2,60,62
+"47","RA24","RA24.4",3,"TSB","Staphylococcus aureus",2,63,65
+"48","MBb30","MBb30.1",3,"TSB","Staphylococcus aureus",2,66,68
+"49","MBb30","MBb30.2",3,"TSB","Staphylococcus aureus",2,69,71
+"50","MBb30","MBb30.3",3,"TSB","Staphylococcus aureus",2,72,74
+"51","MBb30","MBb30.4",3,"TSB","Staphylococcus aureus",2,75,77
+"52","MB308","MB308.1",3,"TSB","Staphylococcus aureus",2,78,80
+"53","MB308","MB308.2",3,"TSB","Staphylococcus aureus",2,81,83
+"54","MB308","MB308.3",3,"TSB","Staphylococcus aureus",2,84,86
+"55","MB308","MB308.4",3,"TSB","Staphylococcus aureus",2,87,89
+"56","RA18","RA18.1",3,"TSB","Staphylococcus aureus",3,10,12
+"57","RA18","RA18.2",3,"TSB","Staphylococcus aureus",3,13,15
+"58","RA18","RA18.3",3,"TSB","Staphylococcus aureus",3,16,18
+"59","RA18","RA18.4",3,"TSB","Staphylococcus sp.",3,19,21
+"60","MBT002","MBT002.1",3,"TSB","Staphylococcus aureus",3,22,24
+"61","MBT002","MBT002.2",3,"TSB","Staphylococcus aureus",3,25,27
+"62","MBT002","MBT002.3",3,"TSB","Staphylococcus aureus",3,28,30
+"63","MBT002","MBT002.4",3,"TSB","Staphylococcus aureus",3,31,33
+"64","MB019","MB019.1",3,"TSB","Staphylococcus aureus",3,34,36
+"65","MB019","MB019.2",3,"TSB","Staphylococcus aureus",3,37,39
+"66","MB019","MB019.3",3,"TSB","Staphylococcus aureus",3,40,42
+"67","MB019","MB019.4",3,"TSB","Staphylococcus aureus",3,43,45
+"68","MB326","MB326.1",3,"TSB","Staphylococcus aureus",3,46,48
+"69","MB326","MB326.2",3,"TSB","Staphylococcus aureus",3,49,51
+"70","MB326","MB326.3",3,"TSB","Staphylococcus aureus",3,52,54
+"71","MB326","MB326.4",3,"TSB","Staphylococcus aureus",3,55,57
+"72","RF122","RF122.1",3,"TSB","Staphylococcus aureus",3,58,60
+"73","RF122","RF122.2",3,"TSB","Staphylococcus aureus",3,61,63
+"74","RF122","RF122.3",3,"TSB","Staphylococcus sp.",3,64,66
+"75","RF122","RF122.4",3,"TSB","Staphylococcus aureus",3,67,69
+"76","V329","V329.1",3,"TSB","Staphylococcus aureus",3,70,72
+"77","V329","V329.2",3,"TSB","Staphylococcus aureus",3,73,75
+"78","V329","V329.3",3,"TSB","Staphylococcus aureus",3,76,78
+"79","V329","V329.4",3,"TSB","Staphylococcus aureus",3,79,81
+"80","RA22","RA22.1",3,"Milk","Not reliable",3,82,84
+"81","RA22","RA22.2",3,"Milk","Not reliable",3,85,87
+"82","RA24","RA24.1",3,"Milk","Staphylococcus aureus",3,88,90
+"83","RA24","RA24.2",3,"Milk","Staphylococcus sp.",3,91,93
+"84","MBb30","MBb30.1",3,"Milk","Lactobacillus planctarum",3,94,96
+"85","MBb30","MBb30.2",3,"Milk","Not reliable",3,97,99
+"86","MB308","MB308.1",3,"Milk","Staphylococcus aureus",4,10,12
+"87","MB308","MB308.2",3,"Milk","Not reliable",4,13,15
+"88","MB308","MB308.3",3,"Milk","Staphylococcus aureus",4,16,18
+"89","MB308","MB308.4",3,"Milk","Staphylococcus aureus",4,19,21
+"90","RA18","RA18.1",3,"Milk","Staphylococcus aureus",4,22,24
+"91","RA18","RA18.2",3,"Milk","Staphylococcus aureus",4,25,27
+"92","RA18","RA18.3",3,"Milk","Staphylococcus aureus",4,28,30
+"93","RA18","RA18.4",3,"Milk","Staphylococcus aureus",4,31,33
+"94","MBT002","MBT002.1",3,"Milk","Staphylococcus aureus",4,34,36
+"95","MBT002","MBT002.2",3,"Milk","Staphylococcus aureus",4,37,39
+"96","MBT002","MBT002.3",3,"Milk","Staphylococcus aureus",4,40,42
+"97","MBT002","MBT002.4",3,"Milk","Staphylococcus aureus",4,43,45
+"98","MB019","MB019.1",3,"Milk","Staphylococcus aureus",4,46,48
+"99","MB019","MB019.2",3,"Milk","Staphylococcus aureus",4,49,51
+"100","MB019","MB019.3",3,"Milk","Staphylococcus aureus",4,52,54
+"101","MB019","MB019.4",3,"Milk","Staphylococcus aureus",4,55,57
+"102","MB326","MB326.1",3,"Milk","Staphylococcus aureus",4,58,60
+"103","MB326","MB326.2",3,"Milk","Staphylococcus sp.",4,61,63
+"104","MB326","MB326.3",3,"Milk","Not reliable",4,64,66
+"105","MB326","MB326.4",3,"Milk","Staphylococcus aureus",4,67,69
+"106","RF122","RF122.1",3,"Milk","Not reliable",4,70,72
+"107","RF122","RF122.2",3,"Milk","Not reliable",4,73,75
+"108","RF122","RF122.3",3,"Milk","Not reliable",4,76,78
+"109","RF122","RF122.4",3,"Milk","Not reliable",4,79,81
+"110","V329","V329.1",3,"Milk","Staphylococcus aureus",4,82,84
+"111","V329","V329.2",3,"Milk","Staphylococcus sp.",4,85,87
+"112","V329","V329.3",3,"Milk","Staphylococcus sp.",4,88,90
+"113","V329","V329.4",3,"Milk","Staphylococcus aureus",4,91,93
+"114","RA22","RA22.1",3,"Milk whey","Lactobacillus sp.",5,10,12
+"115","RA22","RA22.2",3,"Milk whey","Lactobacillus sp.",5,13,15
+"116","RA24","RA24.1",3,"Milk whey","Staphylococcus sp./Lactobacillus sp.",5,16,18
+"117","RA24","RA24.2",3,"Milk whey","Staphylococcus sp./Lactobacillus sp.",5,19,21
+"118","MBb30","MBb30.1",3,"Milk whey","Staphylococcus sp./Lactobacillus sp.",5,22,24
+"119","MBb30","MBb30.2",3,"Milk whey","Lactobacillus sp.",5,25,27
+"120","MB308","MB308.1",3,"Milk whey","Lactobacillus sakei",5,28,30
+"121","MB308","MB308.2",3,"Milk whey","Lactobacillus sp.",5,31,33
+"122","RA18","RA18.1",3,"Milk whey","Not reliable",5,34,36
+"123","RA18","RA18.2",3,"Milk whey","Staphylococcus aureus",5,37,39
+"124","MBT002","MBT002.1",3,"Milk whey","Staphylococcus sp./Lactobacillus sp.",5,40,42
+"125","MBT002","MBT002.2",3,"Milk whey","Staphylococcus sp./Lactobacillus sp.",5,43,45
+"126","MB019","MB019.1",3,"Milk whey","Staphylococcus sp./Lactobacillus sp.",5,46,48
+"127","MB019","MB019.2",3,"Milk whey","Staphylococcus sp./Lactobacillus sp.",5,49,51
+"128","MB326","MB326.1",3,"Milk whey","Staphylococcus sp./Lactobacillus sp.",5,52,54
+"129","RF122","RF122.1",3,"Milk whey","Staphylococcus aureus",5,55,57
+"130","RF122","RF122.2",3,"Milk whey","Staphylococcus aureus",5,58,60
+"131","V329","V329.1",3,"Milk whey","Staphylococcus sp./Lactobacillus sp.",5,61,63
+"132","V329","V329.2",3,"Milk whey","Lactobacillus sp.",5,64,66
+"133","Cnt.AgL","Cnt",3,"Milk","Lactobacillus fructivorans/curvatus/plantarum/paracasei",5,67,69
+"134","Cnt.Le","Cnt",3,"Milk Cnt","Lactobacillus fructivorans/curvatus/plantarum/paracasei",5,70,72
+"135","Cnt.S","Cnt.1",3,"Milk whey Cnt","Not reliable",5,73,75
+"136","Cnt.S","Cnt.2",3,"Milk whey Cnt","Not reliable",5,76,78
